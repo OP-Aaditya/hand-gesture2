@@ -1,0 +1,15 @@
+body{
+    background-color: darkcyan;
+}
+#camera{
+    border-radius: 250px;
+    border-style: dashed;
+    width: 350px;
+  height: 300px; 
+}
+#result{
+    border-radius: 250px;
+    border-style: dashed;
+    width: 350px;
+  height: 300px;
+}
